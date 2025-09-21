@@ -10,7 +10,7 @@ export default function App() {
         <footer className="mt-6 text-xs text-gray-500">
           Backend is in-memory.
         </footer>
-      </div>
     </div>
+  </div>
   );
 }
